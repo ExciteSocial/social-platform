@@ -1,4 +1,4 @@
-## MuxDay
+## Excite
 Current version: `v1.1.2`
 
 Running on [Liaoverse](https://github.com/huanmux/liaotian)

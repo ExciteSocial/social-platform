@@ -75,14 +75,14 @@ export const CustomPage = ({ slug }: CustomPageProps) => {
               </div>
               <p className="text-[rgb(var(--color-text-secondary))]">@{profile?.username || 'mu'}</p>
               <p className="text-sm text-[rgb(var(--color-text-secondary))] mt-1">
-                <a href="/" className="text-[rgb(var(--color-accent))]">Sign Up</a> for MuxDay
+                <a href="/" className="text-[rgb(var(--color-accent))]">Sign Up</a> for Excite
               </p>
             </div>
           </div>
         </div>
 
         <div className="mt-10 text-center text-sm text-[rgb(var(--color-text-secondary))]">
-          © MuxDay {new Date().getFullYear()}
+          © Excite {new Date().getFullYear()}
         </div>
       </div>
     </div>

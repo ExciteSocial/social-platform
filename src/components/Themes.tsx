@@ -181,8 +181,8 @@ const presets: ThemePreset[] = [
     },
   },
   {
-    value: 'muxday',
-    name: 'MuxDay',
+    value: 'Excite',
+    name: 'Excite',
     desc: '',
     colors: {
       primary: '139, 232, 203',
