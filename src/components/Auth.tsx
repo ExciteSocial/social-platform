@@ -333,7 +333,7 @@ export const Auth = () => {
               </button>
             </div>
 
-            <div className="mt-16 text-center text-xs text-gray-400">© Excite {new Date().getFullYear()}</div>
+            <div className="mt-16 text-center text-xs text-gray-400">© MuxDay {new Date().getFullYear()}</div>
           </div>
         </div>
       </div>
@@ -390,7 +390,7 @@ export const Auth = () => {
           </button>
         </div>
 
-        <div className="mt-12 text-xs text-white/60">© Excite {new Date().getFullYear()}</div>
+        <div className="mt-12 text-xs text-white/60">© MuxDay {new Date().getFullYear()}</div>
       </div>
 
       <PolicyModal isOpen={isModalOpen} title={modalTitle} slug={modalSlug} onClose={closeModal} />

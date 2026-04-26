@@ -82,7 +82,7 @@ export const CustomPage = ({ slug }: CustomPageProps) => {
         </div>
 
         <div className="mt-10 text-center text-sm text-[rgb(var(--color-text-secondary))]">
-          © Excite {new Date().getFullYear()}
+          © MuxDay {new Date().getFullYear()}
         </div>
       </div>
     </div>
